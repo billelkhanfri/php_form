@@ -1,12 +1,12 @@
-# Pratique de la validation de formulaires PHP
+# PHP Form Validation Practice
 
-Ce dépôt a été créé dans le but de vous aider à apprendre et à pratiquer la validation de formulaires en PHP. Nous nous concentrerons sur la validation des champs de texte, des adresses e-mail et sur le téléversement de fichiers.
+This repository was created to help you learn and practice form validation in PHP. We will focus on validating text fields, email addresses, and file uploads.
 
-## Contenu 
+## Contents
 
-- index.php: Ce fichier contient un formulaire HTML de base où vous pouvez saisir des informations et soumettre le formulaire pour validation.
+- index.php: This file contains a basic HTML form where you can enter information and submit the form for validation.
 
-- validate.php: Ce fichier contient le code PHP pour valider les champs de texte, les adresses e-mail et gérer le téléchargement de fichiers.
+- validate.php: This file contains the PHP code to validate text fields, email addresses, and handle file uploads.
 
-- uploads/: Ce répertoire est destiné à stocker les fichiers téléchargés à partir du formulaire.
-Instructions d'utilisation
+- uploads/: This directory is intended to store files uploaded from the form.
+Usage Instructions.
